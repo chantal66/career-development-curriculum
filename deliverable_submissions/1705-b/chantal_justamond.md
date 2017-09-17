@@ -11,6 +11,12 @@ Students should clone their individual file and update them with gist links for 
 * Link to Trello Board with companies that are being tracked: 
 * Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
 
+>* [Mod3 Resume](https://drive.google.com/open?id=0Bz5xvoFKch1JZERVVXlDSk11Tkk)
+>* [Turing Portfolio](https://www.turing.io/alumni/chantal-justamond)
+>* [Flower exercise](https://gist.github.com/chantal66/daf722d157f66264d3e4705bb7210d00)
+>* [Trello Board](https://trello.com/b/muS5lhW1/job-tracker)
+>* [Job Action Plan](https://gist.github.com/chantal66/b49c79ab45f46ac8af99ccd958f3cf0a)
+
 ## Mod 2 Deliverables:
 
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
